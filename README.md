@@ -14,9 +14,8 @@
   
 ### Certificates
 
-**Java** <img src="https://img.shields.io/travis/abranhe/porgramming-languages-logos.svg?logo=travis&branch=master)](https://www.svgrepo.com/show/303388/java-4-logo.svg"
- alt="java" >
-![Certificate](https://www.sololearn.com/certificates/CT-TCJX7DOJ)
+**Java**![Certificate](https://www.sololearn.com/certificates/CT-TCJX7DOJ)
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png](https://www.svgrepo.com/show/303388/java-4-logo.svg)" width="100" height="100" alt="java">
 
 ## Stats📈
 <p align="center">
