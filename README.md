@@ -15,7 +15,7 @@
 ### Certificates
 
 **Java**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
-![Certificate](https://www.sololearn.com/certificates/CT-TCJX7DOJ)
+[Certificate](https://www.sololearn.com/certificates/CT-TCJX7DOJ)
 
 
 ## Stats📈
