@@ -14,8 +14,7 @@
 ## Certificates
 
 <img src="https://img.shields.io/travis/abranhe/porgramming-languages-logos.svg?logo=travis&branch=master)](https://www.svgrepo.com/show/303388/java-4-logo.svg"
-     alt="java"
-     style="width=10px;" />
+     alt="java"/>
 
 ## Stats📈
 <p align="center">
