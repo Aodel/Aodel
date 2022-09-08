@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/77bddeb631b53ef6661b10f242402ff62630eeccaf9044777462c24990a4fc8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3962396239623f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d626c61636b" alt="java" data-canonical-src="https://img.shields.io/badge/Java-9b9b9b?style=for-the-badge&amp;logo=java&amp;logoColor=black" style="max-width: 100%;"> 
-  ![Certificate](https://www.sololearn.com/certificates/CT-TCJX7DOJ) 
+  **Certificate** (https://www.sololearn.com/certificates/CT-TCJX7DOJ) 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
    alt="java" width="60" height="40" style="max-width: 100%;">
  </p>
