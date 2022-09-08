@@ -1,6 +1,3 @@
-# My GihubProfile
-
-
 # Hi, I'm Aodel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <table>
   <tr>
@@ -19,7 +16,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aodel&theme=highcontrast&hide_border=true" alt="Aodel" />
 </p>
 
-## 🛠️ Skills & Tech Stack 
+## 🛠️Stack & Tools
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +42,7 @@
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-### Certificates
+### 📜 Certificates
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
    alt="java" width="100" height="80" style="max-width: 100%;">
