@@ -13,7 +13,9 @@
   </table>
 ##Certificates
 
-![Java] (https://img.shields.io/travis/abranhe/porgramming-languages-logos.svg?logo=travis&branch=master)
+<img src="https://img.shields.io/travis/abranhe/porgramming-languages-logos.svg?logo=travis&branch=master)"
+     alt="java"
+     style="float: left; margin-right: 10px;" />
 
 ## Stats📈
 <p align="center">
