@@ -2,8 +2,8 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am finishing **Factoria F5's Fullstack course**.
-      🌱 I am currently learning **Java & JS** and also interested in **Web Development**.
+      🎓 I have finished **Factoria F5's Fullstack course**.
+      🌱 I am currently working on Backend with Data Analysis in **Java** and also interested in **Web Development with JS**.
       🎯 My Goal is to Contribute to as many **open source project** as possible
     
   </tr>
