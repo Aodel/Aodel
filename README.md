@@ -13,7 +13,9 @@
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aodel&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Aodel" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aodel&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Aodel" />
-  <img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api username=Aodel&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" style="max-width: 100%;">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aodel&layout=compact)](https://github.com/Aodel/github-readme-stats)
+  
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aodel&theme=highcontrast&hide_border=true" alt="Aodel" />
 </p>
 
